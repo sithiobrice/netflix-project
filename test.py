@@ -1,0 +1,5 @@
+print(2)
+print(2+200)
+print("hello everyone") 
+print("this is our first python class") 
+print("vamsi")
