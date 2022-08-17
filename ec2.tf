@@ -5,3 +5,4 @@
 # 3- git commit -m to commit (taking picture of the version )
 # 4- git log is to see the commit message that has happen
 # os of the system is windowsS
+# this my note
